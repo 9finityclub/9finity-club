@@ -1,4 +1,3 @@
-
 # 9FINITY CLUB
 
-Premium community membership platform built with React + Vite.
+Working React + Vite app with member registration and admin dashboard.
